@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Deep Research",
+  "description": "An intelligent research assistant powered by Gemini 2.5. Capable of analyzing topics, documents, and web links with grounded accuracy and voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
